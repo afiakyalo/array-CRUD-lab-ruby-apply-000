@@ -1,4 +1,4 @@
-require "../lib/array_crud.rb"
+require_relative "../lib/array_crud.rb"
 require "spec_helper"
 
 describe "#create_an_empty_array" do
